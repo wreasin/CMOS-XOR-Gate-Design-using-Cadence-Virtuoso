@@ -42,9 +42,8 @@ Considering all steps will show that Vout is following the expected value as in 
 #### DC, AC, Transient :
 _Here I am doing four types of Analysis - DC, AC, Transient and Noise_.  
 In DC and Transient Analysis i have measured Va, Vb & Vout as Voltage, and Current (I) in VDD node. In AC Analysis i have measured Va, Vb & Vout as Voltage Frequency and Current (I) Frequency in VDD node. For DC and Transient Analysis the plots of _Va_ , _Vb_ and _Vout_ shows the _voltages_, on the otherhand _VDD(I4)_ shows the _current (I)_. For AC Analysis the plots of _Va_ , _Vb_ and _Vout_ shows the _voltage frequency_, on the otherhand _VDD(I4)_ shows the _current (I) frequency_. 
-![output](https://github.com/wreasin/CMOS-XOR-Gate-Design-using-Cadence-Virtuoso/blob/main/image/Output(Tran,%20DC).PNG?raw=true)  
-![output2](https://github.com/wreasin/CMOS-XOR-Gate-Design-using-Cadence-Virtuoso/blob/main/image/Output(Tran,%20DC)_2.PNG?raw=true)
-![AC_output](https://github.com/wreasin/CMOS-XOR-Gate-Design-using-Cadence-Virtuoso/blob/main/image/Output(AC)_2.PNG?raw=true)
+![output](https://github.com/wreasin/CMOS-XOR-Gate-Design-using-Cadence-Virtuoso/blob/main/image/Output(Tran,%20DC%20&%20AC).PNG?raw=true)  
+![output2](https://github.com/wreasin/CMOS-XOR-Gate-Design-using-Cadence-Virtuoso/blob/main/image/Output(Tran,%20DC%20&%20AC)_2.PNG?raw=true)
 
 #### Noise Figure and Noise Response :  
 For measuring of Noise Figure and Noise Response i had to use PORTS instead of Vpulse. For Noise Analysis i have measured input, output & VN2 noise and also Noise Figure. In Noise Response the plots shows the input, output & VN2 noise and also Noise Figure.  
