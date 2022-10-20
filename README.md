@@ -15,7 +15,7 @@ XOR can also be viewed as addition modulo 2. As a result, XOR gates are used to 
 
 ### The Project details of mine :
 Here i have use __gpdk90n__ :-
-1. 8T pmos1v and 8T nmos1v.
+1. 16T pmos1v and 16T nmos1v.
 2. For vdd i have use vdc (1v)
 3. For input i have use two vpulse (1v)
 4. Here I am doing four types of Analysis :  
